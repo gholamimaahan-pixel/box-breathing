@@ -1,0 +1,3 @@
+git add .gitattributes
+git add "اسم-فایل-ویدیو.mp4"
+git commit -m "Add large video via LFS"
